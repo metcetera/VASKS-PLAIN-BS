@@ -1,17 +1,31 @@
 @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@900&display=swap');
 
+/* palette
+dark: #353232
+orange: #FC7931
+light-orange: #FFA65E
+greyish: #C5BBB3
+*/
+
+
 html {
     height: 100%;
+    font-family: "Orbitron";
 }
+
 body {
     height: 100vh;
+    font-family: Arial;
     letter-spacing: .25rem;
     background-color: #212529cc;
     background-image: url("https://www.transparenttextures.com/patterns/brushed-alum.png");
 }
 
+h1, h2, h3, h4, h5, h6 {
+}
+
 h1 {
-    font-family: "Orbitron";
+    font-family: "Orbitron", Arial;
     font-size: calc(1.5rem + 1.75vw);
     letter-spacing: calc(1rem + .25vw);
     font-style: oblique;
@@ -19,15 +33,59 @@ h1 {
 }
 
 h2 {
-    font-family: "Orbitron";
+    font-family: "Orbitron", Arial;
     font-size: calc(1rem + .5vw);
     letter-spacing: calc(1rem + .25vw);
     text-transform: uppercase;
-    /* font-size: calc(1.5rem + 2.5vw); */
+}
+
+h4 {
+    font-size: calc(.9rem + .7vw);
+}
+
+h5 {
+    font-size: calc(.7rem + .5vw);
+}
+
+.list-item {
+    border-radius: 11px 11px 0 11px;
+    border: 1px solid #74614f33;
+    padding: 4px;
+    margin-bottom: 8px;
+}
+
+.list-item:hover, 
+.list-item:focus, 
+.list-item:active {
+    background: #74614f33;
+}
+
+.list-item .heading {
+    font-size: 1.55rem;
+    letter-spacing: .15rem;
+}
+
+.list-item .text {
+    font-size: 1.25rem;
+    letter-spacing: .1rem;
+    /* color: #FFA65E; */
+}
+
+.svg-check {
+    position: absolute;
+    top: -8px;
+    left: -8px;
+    fill: #74614f33;
+}
+
+.cta-text {
+    margin-bottom: 0;
+    font-size: 1rem;
 }
 
 .content {
-    background-color: #212529cc;
+    background: #353232;
+    min-width: 375px;
 }
 
 .header:hover {
@@ -37,15 +95,17 @@ h2 {
 .hover:hover, 
 .hover:focus, 
 .hover:active {
-    background-color: #74614f33;
-    border-color: #FF8800!important;
+    /* background-color: #74614f33; */
+    border-color: #FC7931!important;
     cursor: pointer;
 }
 
 .link {
     position: relative;
     flex: 0.7; 
-    border: 2px solid #909294; 
+    font-style: italic;
+    border: 1px solid transparent; 
+    background-color: #74614f33;
     border-radius: 11px 0 11px 11px;
 }
 
@@ -54,6 +114,21 @@ h2 {
     flex: .7 .7 33%;
     border: 2px solid #909294; 
     border-radius: 11px;
+}
+
+.box-collapsed {
+    position: relative;
+    flex: .7 .7 33%;
+}
+
+.angle-up {
+    width: 24px;
+    height: 24px;
+    fill: #FC7931;
+}
+
+.collapsed .angle-up {
+    transform: rotate(180deg);
 }
 
 /*  ARROW
@@ -69,14 +144,14 @@ h2 {
 .hover:focus .indicator span, 
 .hover:active .indicator span {
     animation-play-state: paused;
-    border-bottom: 2px solid #f80!important;
-    border-right: 2px solid #f80!important;
+    border-bottom: 2px solid #FFA65E!important;
+    border-right: 2px solid #FFA65E!important;
 }
 
 .indicator {
     position: relative;
-    width: 10px;
-    height: 10px;
+    width: 6px;
+    height: 6px;
     transform: rotate(-90deg);
   }
 
@@ -88,14 +163,14 @@ h2 {
     height: 100%;
     box-sizing: border-box;
     border: none;
-    border-bottom: 2px solid #909294;
-    border-right: 2px solid #909294;
+    border-bottom: 1px solid #FC7931;
+    border-right: 1px solid #FC7931;
     animation: animate 2s linear infinite;
 }
 
 .indicator span:nth-child(1) {
-    top: -5px;
-    left: -5px;
+    top: -3px;
+    left: -3px;
     animation-delay: 0.5s;
 }
 
@@ -105,24 +180,18 @@ h2 {
     animation-delay: 1s;
 }
 
-.indicator span:nth-child(3) {
-    top: 5px;
-    left: 5px;
-    animation-delay: 1.5s;
-}
-
 @keyframes animate {
     0% {
-      border-color: #f80;
+      border-color: #FFA65E;
       transform: translate(0, 0);
     }
     20% {
-      border-color: #f80;
+      border-color: #FFA65E;
       transform: translate(5px, 5px);
     }
     20.1%,
     100% {
-      border-color: #909294;
+      border-color: #FC7931;
     }
 }
   
