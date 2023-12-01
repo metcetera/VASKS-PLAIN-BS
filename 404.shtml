@@ -1,115 +1,170 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
   <head>
     <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    
-    <meta name="description" content="Veenstra Autoservice , voor al het onderhoud aan uw auto maar ook APK keuringen en schadereparaties. Wij zijn te bereiken op +31-(0)226-428701.">
-    <meta name="keywords" content="Veenstra, auto, autogarage, autoservice, autosbedrijf, autobanden, koplamp, koplampen,Veenstra Bandenservice, Veenstra Koplampenservice, Veenstra Autoservice, Noord-Scharwoude, De Mossel, De Mossel Noord-Scharwoude, 1723, alkmaar, alkmaar en omstreken, heerhugowaard, APK, APK reparatie, onderhoud, auto onderhoud, schadeherstel, komplamp herstel, autokomplamp herstel, banden, trekhaak, trekhaken, servicebeurt, universeel, universeel autobedrijf, universele autogarage, ocassions, auto te koop, autoverkoop">
-	<meta name="robots" content="index, follow">
-	<link rel="canonical" href="https://veenstra-autoservice.nl/404.shtml">
-    <meta name="author" content="404 | Veenstra Autoservice ">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%22256%22 height=%22256%22 viewBox=%220 0 100 100%22><rect width=%22100%22 height=%22100%22 rx=%2250%22 fill=%22%23353232%22></rect><path d=%22M63.57 83.26L63.57 83.26Q61.90 84.69 58.39 85.76Q54.88 86.83 50.71 86.83L50.71 86.83Q45.72 86.83 42.15 85.34Q38.58 83.86 37.27 81.24L37.27 81.24Q35.96 78.50 34.05 74.16Q32.15 69.81 30.07 64.46Q27.98 59.10 25.78 53.09Q23.58 47.08 21.56 40.90Q19.54 34.71 17.75 28.76Q15.97 22.81 14.66 17.57L14.66 17.57Q16.32 15.91 19.48 14.54Q22.63 13.17 26.20 13.17L26.20 13.17Q30.60 13.17 33.40 15.01Q36.20 16.86 37.50 21.86L37.50 21.86Q40.72 33.52 43.99 44.17Q47.26 54.82 50.83 66.36L50.83 66.36L51.55 66.36Q54.76 55.18 58.15 41.97Q61.54 28.76 64.64 15.67L64.64 15.67Q66.78 14.60 69.22 13.88Q71.66 13.17 74.75 13.17L74.75 13.17Q79.16 13.17 82.25 15.13Q85.34 17.10 85.34 21.62L85.34 21.62Q85.34 24.24 84.09 29.23Q82.84 34.23 80.88 40.48Q78.92 46.73 76.48 53.51Q74.04 60.29 71.60 66.30Q69.16 72.31 67.02 76.89Q64.88 81.48 63.57 83.26Z%22 fill=%22%23fc7931%22></path></svg>" />
+    <meta
+      name="description"
+      content="Veenstra Autoservice , voor al het onderhoud aan uw auto maar ook APK keuringen en schadereparaties. Wij zijn te bereiken op +31-(0)226-428701."
+    />
+    <meta
+      name="keywords"
+      content="Veenstra, auto, autogarage, autoservice, autosbedrijf, autobanden, koplamp, koplampen,Veenstra Bandenservice, Veenstra Koplampenservice, Veenstra Autoservice, Noord-Scharwoude, De Mossel, De Mossel Noord-Scharwoude, 1723, alkmaar, alkmaar en omstreken, heerhugowaard, APK, APK reparatie, onderhoud, auto onderhoud, schadeherstel, komplamp herstel, autokomplamp herstel, banden, trekhaak, trekhaken, servicebeurt, universeel, universeel autobedrijf, universele autogarage, ocassions, auto te koop, autoverkoop"
+    />
+    <meta name="robots" content="index, follow" />
+    <link rel="canonical" href="https://veenstra-autoservice.nl/404.shtml" />
+    <meta name="author" content="404 | Veenstra Autoservice " />
+
+    <link
+      rel="icon"
+      type="image/svg+xml"
+      href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%22256%22 height=%22256%22 viewBox=%220 0 100 100%22><rect width=%22100%22 height=%22100%22 rx=%2250%22 fill=%22%23353232%22></rect><path d=%22M63.57 83.26L63.57 83.26Q61.90 84.69 58.39 85.76Q54.88 86.83 50.71 86.83L50.71 86.83Q45.72 86.83 42.15 85.34Q38.58 83.86 37.27 81.24L37.27 81.24Q35.96 78.50 34.05 74.16Q32.15 69.81 30.07 64.46Q27.98 59.10 25.78 53.09Q23.58 47.08 21.56 40.90Q19.54 34.71 17.75 28.76Q15.97 22.81 14.66 17.57L14.66 17.57Q16.32 15.91 19.48 14.54Q22.63 13.17 26.20 13.17L26.20 13.17Q30.60 13.17 33.40 15.01Q36.20 16.86 37.50 21.86L37.50 21.86Q40.72 33.52 43.99 44.17Q47.26 54.82 50.83 66.36L50.83 66.36L51.55 66.36Q54.76 55.18 58.15 41.97Q61.54 28.76 64.64 15.67L64.64 15.67Q66.78 14.60 69.22 13.88Q71.66 13.17 74.75 13.17L74.75 13.17Q79.16 13.17 82.25 15.13Q85.34 17.10 85.34 21.62L85.34 21.62Q85.34 24.24 84.09 29.23Q82.84 34.23 80.88 40.48Q78.92 46.73 76.48 53.51Q74.04 60.29 71.60 66.30Q69.16 72.31 67.02 76.89Q64.88 81.48 63.57 83.26Z%22 fill=%22%23fc7931%22></path></svg>"
+    />
 
     <title>404 | VEENSTRA Autoservice</title>
 
-	<!-- OPEN GRAPH TAGS ============================================== -->
-	<meta property="og:site_name" content="404 | Veenstra Autoservice">
-	<meta property="og:url" content="https://veenstra-autoservice.nl/">
-	<meta property="og:image:url" content="https://veenstra-autoservice.nl/assets/img/og-veenstra-autoservice-noord-scharwoude.jpg">
-	<meta property="og:type" content="website">
-	<meta property="og:title" content="404 | Veenstra Autoservice">
-	<meta property="og:description" content="Veenstra Autoservice, voor al het onderhoud aan uw auto maar ook APK keuringen en schadereparaties. Wij zijn te bereiken op +31-(0)226-428701.">
+    <!-- OPEN GRAPH TAGS ============================================== -->
+    <meta property="og:site_name" content="404 | Veenstra Autoservice" />
+    <meta property="og:url" content="https://veenstra-autoservice.nl/" />
+    <meta
+      property="og:image"
+      content="https://veenstra-autoservice.nl/assets/img/og-veenstra-autoservice-noord-scharwoude.jpg"
+    />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="404 | Veenstra Autoservice" />
+    <meta
+      property="og:description"
+      content="Veenstra Autoservice, voor al het onderhoud aan uw auto maar ook APK keuringen en schadereparaties. Wij zijn te bereiken op +31-(0)226-428701."
+    />
 
     <!-- Google tag (gtag.js) -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=G-F7N265BY0B"></script>
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-F7N265BY0B"
+    ></script>
     <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag(){dataLayer.push(arguments);}
-        gtag('js', new Date());
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
 
-        gtag('config', 'G-F7N265BY0B');
+      gtag("config", "G-F7N265BY0B");
     </script>
 
     <!-- Bootstrap CSS -->
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+    <link
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+      rel="stylesheet"
+      integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+      crossorigin="anonymous"
+    />
 
-    <link rel="stylesheet" href="styles.css">
-
+    <link rel="stylesheet" href="styles.css" />
   </head>
   <body class="">
     <div class="container d-flex justify-content-center align-items-center p-0">
-        <div class="content col-12 col-lg-10 col-xl-10 py-2 shadow" style="border-radius: 33px;">
-
-            <HR>
-                <div class="text-center mb-4">
-                    <hs class="text-white-50"><I>Oeps! We konden de opgevraagde pagina niet vinden</I></hs>
-                </div>
-            <HR>
-
-            <div class="pt-2" style="border-radius: 33px;">
-                <div class="text-center mb-4 header"  onclick="window.location = '/'">
-                    <h1>VEENSTRA</h1>
-                    <h2 class="text-white-50 sub-title text-right">Autoservice</h2>
-                </div>
-
-                <div class="d-flex flex-column flex-md-row justify-content-around">
-                    <div 
-                        class="d-flex flex-row justify-content-start align-items-center mx-3 mb-1 p-1 link hover" 
-                        tabindex="1"
-                        onclick="window.open('tel:+31-226-428701');">
-                        
-                        <div class="m-1">
-                            <svg width="33" height="30" viewBox="0 0 99 93" fill="#FC7931" xmlns="http://www.w3.org/2000/svg">
-                                <path d="M85.8406 57.5515L67.7275 50.2592C66.7818 49.8768 65.7492 49.7228 64.724 49.8113C63.6987 49.8998 62.7133 50.2279 61.8576 50.7658L52.173 56.8302C46.2541 54.1259 41.4635 49.6455 38.5585 44.0973L38.5593 44.0966L44.9923 34.8627C45.5522 34.0611 45.892 33.1415 45.9811 32.1864C46.0702 31.2312 45.9059 30.2702 45.5029 29.3893L37.733 12.3595C37.2041 11.2035 36.2908 10.2395 35.1299 9.61196C33.969 8.98438 32.6229 8.72693 31.2932 8.87816C26.0682 9.50925 21.2664 11.9057 17.7849 15.6198C14.3034 19.3339 12.3803 24.1117 12.375 29.0605C12.375 57.9059 37.3561 81.373 68.0625 81.373C73.3306 81.368 78.4166 79.5614 82.3704 76.2908C86.3241 73.0203 88.8751 68.5094 89.5469 63.6009C89.7074 62.3518 89.4331 61.0875 88.765 59.997C88.0969 58.9065 87.0709 58.0485 85.8406 57.5515Z"/>
-                                <path d="M61.8753 37.7813C62.2817 37.7817 62.6841 37.7068 63.0596 37.5607C63.435 37.4147 63.776 37.2004 64.063 36.9302L77.344 24.4541V31.9688C77.344 32.7395 77.67 33.4788 78.2502 34.0238C78.8304 34.5688 79.6173 34.875 80.4378 34.875C81.2583 34.875 82.0452 34.5688 82.6254 34.0238C83.2056 33.4788 83.5315 32.7395 83.5315 31.9688V17.4393C83.5315 17.3428 83.5262 17.2461 83.5161 17.1498C83.5119 17.1108 83.504 17.0732 83.4983 17.0347C83.4902 16.9791 83.483 16.9236 83.4715 16.8685C83.4619 16.823 83.4485 16.7791 83.4366 16.7344C83.4239 16.687 83.4128 16.6395 83.3977 16.5926C83.3835 16.5488 83.366 16.5066 83.3497 16.4637C83.3321 16.4168 83.3155 16.37 83.2953 16.3239C83.278 16.2849 83.2576 16.2472 83.2385 16.2089C83.2147 16.161 83.1918 16.1128 83.165 16.066C83.145 16.0307 83.122 15.9973 83.1004 15.9631C83.0708 15.9157 83.0421 15.868 83.0092 15.8221C82.9836 15.7862 82.9549 15.7525 82.9277 15.7179C82.8952 15.6763 82.8642 15.634 82.8289 15.5938C82.784 15.5425 82.7354 15.4944 82.6869 15.4462C82.666 15.4251 82.6474 15.4029 82.6255 15.3823C82.605 15.363 82.5825 15.3465 82.5613 15.3279C82.5087 15.281 82.456 15.2342 82.4001 15.1909C82.3597 15.1599 82.3172 15.1326 82.2757 15.1036C82.236 15.076 82.1977 15.0472 82.1565 15.0213C82.1108 14.9926 82.0634 14.9676 82.0164 14.9413C81.9764 14.919 81.9375 14.8954 81.8963 14.8746C81.8504 14.8518 81.8034 14.8322 81.7567 14.8117C81.7116 14.7916 81.6673 14.7705 81.621 14.7524C81.5776 14.7356 81.533 14.7219 81.4888 14.707C81.4374 14.6895 81.3868 14.6712 81.3343 14.6563C81.292 14.6442 81.249 14.6355 81.2063 14.6252C81.1512 14.6121 81.0968 14.5977 81.0407 14.5873C80.9937 14.5786 80.9463 14.5736 80.8989 14.5671C80.8464 14.5596 80.7945 14.5506 80.7411 14.5456C80.6629 14.5385 80.5845 14.536 80.5062 14.5344C80.4833 14.5341 80.4608 14.5312 80.4378 14.5312H64.969C64.1485 14.5312 63.3616 14.8374 62.7814 15.3825C62.2012 15.9275 61.8753 16.6667 61.8753 17.4375C61.8753 18.2083 62.2012 18.9475 62.7814 19.4925C63.3616 20.0376 64.1485 20.3438 64.969 20.3438H72.9685L59.6875 32.8198C59.2548 33.2263 58.9601 33.7442 58.8407 34.3079C58.7213 34.8717 58.7826 35.4561 59.0168 35.9872C59.251 36.5183 59.6475 36.9722 60.1563 37.2915C60.6652 37.6109 61.2634 37.7813 61.8753 37.7813Z"/>
-                            </svg>
-                        </div>
-                        <div class="d-flex flex-row flex-wrap mx-2">
-                            <h5 class="cta-text">0226-428701</h5>
-                        </div>
-                        <div class="indicator-wrapper">
-                            <div class="indicator">
-                                <span></span>
-                                <span></span>
-                            </div>
-                        </div>
-                    </div>
-        
-                    <div 
-                        class="d-flex flex-row justify-content-start align-items-center mx-3 mb-1 p-1 link hover" 
-                        tabindex="2"
-                        onclick="window.open('https://www.google.com/maps/place/Veenstra+Autoservice/@52.70459,4.7439839,12z/data=!4m5!3m4!1s0x0:0xdaa8e91bef111430!8m2!3d52.70459!4d4.805267');">
-
-                        <div class="m-1">
-                            <svg width="33" height="30" viewBox="0 0 102 96" fill="#FC7931" xmlns="http://www.w3.org/2000/svg">
-                                <path d="M79.1234 83.293H59.556C62.8481 80.5348 65.9529 77.5852 68.852 74.4615C79.7126 62.722 85.4533 50.3462 85.4533 38.6716C85.4533 29.9931 81.7854 21.67 75.2564 15.5334C68.7274 9.39674 59.8722 5.94922 50.6388 5.94922C41.4054 5.94922 32.5502 9.39674 26.0212 15.5334C19.4922 21.67 15.8242 29.9931 15.8242 38.6716C15.8242 50.3462 21.565 62.722 32.4256 74.4615C35.3247 77.5852 38.4294 80.5348 41.7216 83.293H22.1541C21.3147 83.293 20.5097 83.6064 19.9162 84.1643C19.3226 84.7221 18.9892 85.4788 18.9892 86.2677C18.9892 87.0567 19.3226 87.8133 19.9162 88.3712C20.5097 88.9291 21.3147 89.2425 22.1541 89.2425H79.1234C79.9628 89.2425 80.7678 88.9291 81.3614 88.3712C81.9549 87.8133 82.2884 87.0567 82.2884 86.2677C82.2884 85.4788 81.9549 84.7221 81.3614 84.1643C80.7678 83.6064 79.9628 83.293 79.1234 83.293ZM50.6389 26.7725C53.1427 26.7725 55.5904 27.4704 57.6723 28.7779C59.7542 30.0854 61.3768 31.9437 62.335 34.118C63.2932 36.2923 63.5439 38.6848 63.0555 40.993C62.567 43.3011 61.3612 45.4214 59.5907 47.0855C57.8202 48.7496 55.5645 49.8829 53.1087 50.342C50.6529 50.8011 48.1074 50.5655 45.7942 49.6649C43.4809 48.7642 41.5037 47.2391 40.1126 45.2823C38.7215 43.3255 37.979 41.025 37.979 38.6716C37.979 37.109 38.3065 35.5617 38.9427 34.118C39.5789 32.6743 40.5114 31.3626 41.687 30.2577C42.8626 29.1527 44.2582 28.2762 45.7941 27.6783C47.3301 27.0803 48.9764 26.7725 50.6389 26.7725Z"/>
-                            </svg>
-                        </div>
-                        <div class="d-flex flex-row flex-wrap mx-2">
-                            <h5 class="cta-text"><span class="text-nowrap">De Mossel 47</span> <span class="text-nowrap">Noord-Scharwoude</span></h5>
-                        </div>
-                        <div class="indicator-wrapper">
-                            <div class="indicator">
-                                <span></span>
-                                <span></span>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-            </div>
-
-            <div class="d-flex flex-column flex-lg-row justify-content-center align-items-lg-center text-white-50 text-center mt-3 m-1">
-                <div class="text-white-50 text-nowrap">KVK 64242013</div>
-                <div class="d-none d-lg-flex">&nbsp;-&nbsp;</div>
-                <div class="text-white-50 text-nowrap">NL80 ABNA 0513 6970 55</div>
-            </div>
+      <div
+        class="content col-12 col-lg-10 col-xl-10 py-2 shadow"
+        style="border-radius: 33px"
+      >
+        <HR />
+        <div class="text-center mb-4">
+          <hs class="text-white-50"
+            ><I>Oeps! We konden de opgevraagde pagina niet vinden</I></hs
+          >
         </div>
+        <HR />
+
+        <div class="pt-2" style="border-radius: 33px">
+          <div class="text-center mb-4 header" onclick="window.location = '/'">
+            <h1>VEENSTRA</h1>
+            <h2 class="text-white-50 sub-title text-right">Autoservice</h2>
+          </div>
+
+          <div class="d-flex flex-column flex-md-row justify-content-around">
+            <div
+              class="d-flex flex-row justify-content-start align-items-center mx-3 mb-1 p-1 link hover"
+              tabindex="1"
+              onclick="window.open('tel:+31-226-428701');"
+            >
+              <div class="m-1">
+                <svg
+                  width="33"
+                  height="30"
+                  viewBox="0 0 99 93"
+                  fill="#FC7931"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M85.8406 57.5515L67.7275 50.2592C66.7818 49.8768 65.7492 49.7228 64.724 49.8113C63.6987 49.8998 62.7133 50.2279 61.8576 50.7658L52.173 56.8302C46.2541 54.1259 41.4635 49.6455 38.5585 44.0973L38.5593 44.0966L44.9923 34.8627C45.5522 34.0611 45.892 33.1415 45.9811 32.1864C46.0702 31.2312 45.9059 30.2702 45.5029 29.3893L37.733 12.3595C37.2041 11.2035 36.2908 10.2395 35.1299 9.61196C33.969 8.98438 32.6229 8.72693 31.2932 8.87816C26.0682 9.50925 21.2664 11.9057 17.7849 15.6198C14.3034 19.3339 12.3803 24.1117 12.375 29.0605C12.375 57.9059 37.3561 81.373 68.0625 81.373C73.3306 81.368 78.4166 79.5614 82.3704 76.2908C86.3241 73.0203 88.8751 68.5094 89.5469 63.6009C89.7074 62.3518 89.4331 61.0875 88.765 59.997C88.0969 58.9065 87.0709 58.0485 85.8406 57.5515Z"
+                  />
+                  <path
+                    d="M61.8753 37.7813C62.2817 37.7817 62.6841 37.7068 63.0596 37.5607C63.435 37.4147 63.776 37.2004 64.063 36.9302L77.344 24.4541V31.9688C77.344 32.7395 77.67 33.4788 78.2502 34.0238C78.8304 34.5688 79.6173 34.875 80.4378 34.875C81.2583 34.875 82.0452 34.5688 82.6254 34.0238C83.2056 33.4788 83.5315 32.7395 83.5315 31.9688V17.4393C83.5315 17.3428 83.5262 17.2461 83.5161 17.1498C83.5119 17.1108 83.504 17.0732 83.4983 17.0347C83.4902 16.9791 83.483 16.9236 83.4715 16.8685C83.4619 16.823 83.4485 16.7791 83.4366 16.7344C83.4239 16.687 83.4128 16.6395 83.3977 16.5926C83.3835 16.5488 83.366 16.5066 83.3497 16.4637C83.3321 16.4168 83.3155 16.37 83.2953 16.3239C83.278 16.2849 83.2576 16.2472 83.2385 16.2089C83.2147 16.161 83.1918 16.1128 83.165 16.066C83.145 16.0307 83.122 15.9973 83.1004 15.9631C83.0708 15.9157 83.0421 15.868 83.0092 15.8221C82.9836 15.7862 82.9549 15.7525 82.9277 15.7179C82.8952 15.6763 82.8642 15.634 82.8289 15.5938C82.784 15.5425 82.7354 15.4944 82.6869 15.4462C82.666 15.4251 82.6474 15.4029 82.6255 15.3823C82.605 15.363 82.5825 15.3465 82.5613 15.3279C82.5087 15.281 82.456 15.2342 82.4001 15.1909C82.3597 15.1599 82.3172 15.1326 82.2757 15.1036C82.236 15.076 82.1977 15.0472 82.1565 15.0213C82.1108 14.9926 82.0634 14.9676 82.0164 14.9413C81.9764 14.919 81.9375 14.8954 81.8963 14.8746C81.8504 14.8518 81.8034 14.8322 81.7567 14.8117C81.7116 14.7916 81.6673 14.7705 81.621 14.7524C81.5776 14.7356 81.533 14.7219 81.4888 14.707C81.4374 14.6895 81.3868 14.6712 81.3343 14.6563C81.292 14.6442 81.249 14.6355 81.2063 14.6252C81.1512 14.6121 81.0968 14.5977 81.0407 14.5873C80.9937 14.5786 80.9463 14.5736 80.8989 14.5671C80.8464 14.5596 80.7945 14.5506 80.7411 14.5456C80.6629 14.5385 80.5845 14.536 80.5062 14.5344C80.4833 14.5341 80.4608 14.5312 80.4378 14.5312H64.969C64.1485 14.5312 63.3616 14.8374 62.7814 15.3825C62.2012 15.9275 61.8753 16.6667 61.8753 17.4375C61.8753 18.2083 62.2012 18.9475 62.7814 19.4925C63.3616 20.0376 64.1485 20.3438 64.969 20.3438H72.9685L59.6875 32.8198C59.2548 33.2263 58.9601 33.7442 58.8407 34.3079C58.7213 34.8717 58.7826 35.4561 59.0168 35.9872C59.251 36.5183 59.6475 36.9722 60.1563 37.2915C60.6652 37.6109 61.2634 37.7813 61.8753 37.7813Z"
+                  />
+                </svg>
+              </div>
+              <div class="d-flex flex-row flex-wrap mx-2">
+                <h5 class="cta-text">0226-428701</h5>
+              </div>
+              <div class="indicator-wrapper">
+                <div class="indicator">
+                  <span></span>
+                  <span></span>
+                </div>
+              </div>
+            </div>
+
+            <div
+              class="d-flex flex-row justify-content-start align-items-center mx-3 mb-1 p-1 link hover"
+              tabindex="2"
+              onclick="window.open('https://www.google.com/maps/place/Veenstra+Autoservice/@52.70459,4.7439839,12z/data=!4m5!3m4!1s0x0:0xdaa8e91bef111430!8m2!3d52.70459!4d4.805267');"
+            >
+              <div class="m-1">
+                <svg
+                  width="33"
+                  height="30"
+                  viewBox="0 0 102 96"
+                  fill="#FC7931"
+                  xmlns="http://www.w3.org/2000/svg"
+                >
+                  <path
+                    d="M79.1234 83.293H59.556C62.8481 80.5348 65.9529 77.5852 68.852 74.4615C79.7126 62.722 85.4533 50.3462 85.4533 38.6716C85.4533 29.9931 81.7854 21.67 75.2564 15.5334C68.7274 9.39674 59.8722 5.94922 50.6388 5.94922C41.4054 5.94922 32.5502 9.39674 26.0212 15.5334C19.4922 21.67 15.8242 29.9931 15.8242 38.6716C15.8242 50.3462 21.565 62.722 32.4256 74.4615C35.3247 77.5852 38.4294 80.5348 41.7216 83.293H22.1541C21.3147 83.293 20.5097 83.6064 19.9162 84.1643C19.3226 84.7221 18.9892 85.4788 18.9892 86.2677C18.9892 87.0567 19.3226 87.8133 19.9162 88.3712C20.5097 88.9291 21.3147 89.2425 22.1541 89.2425H79.1234C79.9628 89.2425 80.7678 88.9291 81.3614 88.3712C81.9549 87.8133 82.2884 87.0567 82.2884 86.2677C82.2884 85.4788 81.9549 84.7221 81.3614 84.1643C80.7678 83.6064 79.9628 83.293 79.1234 83.293ZM50.6389 26.7725C53.1427 26.7725 55.5904 27.4704 57.6723 28.7779C59.7542 30.0854 61.3768 31.9437 62.335 34.118C63.2932 36.2923 63.5439 38.6848 63.0555 40.993C62.567 43.3011 61.3612 45.4214 59.5907 47.0855C57.8202 48.7496 55.5645 49.8829 53.1087 50.342C50.6529 50.8011 48.1074 50.5655 45.7942 49.6649C43.4809 48.7642 41.5037 47.2391 40.1126 45.2823C38.7215 43.3255 37.979 41.025 37.979 38.6716C37.979 37.109 38.3065 35.5617 38.9427 34.118C39.5789 32.6743 40.5114 31.3626 41.687 30.2577C42.8626 29.1527 44.2582 28.2762 45.7941 27.6783C47.3301 27.0803 48.9764 26.7725 50.6389 26.7725Z"
+                  />
+                </svg>
+              </div>
+              <div class="d-flex flex-row flex-wrap mx-2">
+                <h5 class="cta-text">
+                  <span class="text-nowrap">De Mossel 47</span>
+                  <span class="text-nowrap">Noord-Scharwoude</span>
+                </h5>
+              </div>
+              <div class="indicator-wrapper">
+                <div class="indicator">
+                  <span></span>
+                  <span></span>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div
+          class="d-flex flex-column flex-lg-row justify-content-center align-items-lg-center text-white-50 text-center mt-3 m-1"
+        >
+          <div class="text-white-50 text-nowrap">KVK 64242013</div>
+          <div class="d-none d-lg-flex">&nbsp;-&nbsp;</div>
+          <div class="text-white-50 text-nowrap">NL80 ABNA 0513 6970 55</div>
+        </div>
+      </div>
     </div>
 
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+      crossorigin="anonymous"
+    ></script>
   </body>
 </html>
