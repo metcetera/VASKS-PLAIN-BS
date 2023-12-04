@@ -39,8 +39,17 @@
       content="Veenstra Autoservice, voor al het onderhoud aan uw auto maar ook APK keuringen en schadereparaties. Wij zijn te bereiken op +31-(0)226-428701."
     />
 
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+        j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+        'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+        })(window,document,'script','dataLayer','GTM-M5H2BBPV');
+    </script>
+    <!-- End Google Tag Manager -->
+
     <!-- Google tag (gtag.js) -->
-    <script
+    <!-- <script
       async
       src="https://www.googletagmanager.com/gtag/js?id=G-F7N265BY0B"
     ></script>
@@ -51,7 +60,7 @@
       }
       gtag("js", new Date());
 
-      gtag("config", "G-F7N265BY0B");
+      gtag("config", "G-F7N265BY0B"); -->
     </script>
 
     <!-- Bootstrap CSS -->
