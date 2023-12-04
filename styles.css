@@ -83,8 +83,8 @@ h5 {
 }
 
 .list-item .text {
-  font-size: 1.25rem;
-  letter-spacing: 0.1rem;
+  font-size: 1rem;
+  letter-spacing: 0.05rem;
   /* color: #FFA65E; */
 }
 
@@ -168,6 +168,7 @@ h5 {
 
 .card-body {
   padding: 0;
+  letter-spacing: 0.05rem;
 }
 
 .card-img-top {
