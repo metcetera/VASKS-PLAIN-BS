@@ -195,9 +195,13 @@ h5 {
   font-family: "Orbitron", Arial;
   background-color: rgba(255, 255, 255, 0.35);
   border-color: #fff;
-  width: 60%;
+  width: 80%;
 
-  @media (min-width: 768px) {
+  @media (min-width: 375px) {
+    width: 70%;
+  }
+
+  @media (min-width: 576px) {
     width: auto;
   }
 }
