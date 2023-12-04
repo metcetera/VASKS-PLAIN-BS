@@ -21,7 +21,7 @@ body {
   background: #000;
 
   @media (min-width: 575.98px) {
-    background-image: url("https://www.transparenttextures.com/patterns/brushed-alum.png");
+    background-image: url("https://www.transparenttextures.com/patterns/white-sand.png");
   }
 }
 
@@ -61,16 +61,20 @@ h5 {
 }
 
 .list-item {
-  border-radius: 11px 11px 0 11px;
+  border-radius: 11px;
   border: 1px solid #74614f33;
   padding: 4px;
   margin-bottom: 8px;
+  background-color: #000;
+  background-image: url("https://www.transparenttextures.com/patterns/white-sand.png");
+  transition: backgroundcolor 0.25s ease-in-out, border-color 0.35s ease-in-out;
 }
 
 .list-item:hover,
 .list-item:focus,
 .list-item:active {
   background: #74614f33;
+  border-color: #fc7931b0;
 }
 
 .list-item .heading {
@@ -88,7 +92,7 @@ h5 {
   position: absolute;
   top: -2px;
   left: 8px;
-  fill: greenyellow;
+  fill: #fc7931;
   width: 33px;
   height: 40px;
 }
@@ -131,6 +135,14 @@ h5 {
   background-color: rgba(255, 255, 255, 0.5);
   border-radius: 11px;
 
+  background-color: #000;
+  background-image: url("https://www.transparenttextures.com/patterns/white-sand.png");
+
+  @media (min-width: 575.98px) {
+    background-color: #000;
+    background-image: url("https://www.transparenttextures.com/patterns/white-sand.png");
+  }
+
   @media (min-width: 768px) {
     border-radius: 11px 11px 0 11px;
   }
@@ -150,7 +162,8 @@ h5 {
   flex: 0.5 0.5 25%;
   border: 1px solid #fc793190;
   border-radius: 11px 11px 0 11px;
-  background: transparent;
+  background-color: #000;
+  background-image: url("https://www.transparenttextures.com/patterns/white-sand.png");
 }
 
 .card-body {
@@ -180,7 +193,7 @@ h5 {
 .btn-primary {
   color: #fff;
   font-family: "Orbitron", Arial;
-  background-color: transparent;
+  background-color: rgba(255, 255, 255, 0.35);
   border-color: #fff;
   width: 60%;
 
@@ -192,6 +205,6 @@ h5 {
 .btn-primary:hover,
 .btn-primary:active,
 .btn-primary:focus {
-  background-color: #fc7931b0;
+  background-color: #fc7931;
   border-color: #fff;
 }
